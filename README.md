@@ -1,1 +1,2 @@
 # engish2french_LSTM_RNN
+In this project the base RNN is LSTM. i have created this deep learning model using LSTM and data which contained both english lines and their translation in french. Although the performance of the model is not quite good since some sentenses are long. And we know that most of the variances of vanilla RNN work well with short sentenses. if you will work on this similar project it is advisable to use attention based models or transformes.
